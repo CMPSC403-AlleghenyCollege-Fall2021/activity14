@@ -6,7 +6,7 @@ For the fourteenth activity you are invited to participated in a guided completi
 
 ## Assignment
 
--  Complete [Activity 14]() directly on TryHackMe.
+-  Complete [Activity 14](https://tryhackme.com/jr/alleghenyintronetworkingc5) directly on TryHackMe.
 
 ## Submission
 
